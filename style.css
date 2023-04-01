@@ -1,0 +1,15 @@
+h2 {
+    color:steelblue;
+}
+
+#service {
+    font-weight: bold;
+    color: steelblue;
+    font-size: large;
+    
+}
+
+.carousel-image {
+    height: 400px;
+    object-fit: cover;
+}
